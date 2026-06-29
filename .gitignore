@@ -1,6 +1,14 @@
 jars/
-build/
 conf/
+build/
 libraries/
+
+minecraft/bin
+minecraft/game
+minecraft/reobf
+
+minecraft_server/bin
+minecraft_server/game
+minecraft_server/reobf
 
 RetroMCP-Java-GUI.jar
