@@ -212,7 +212,7 @@ net/minecraft/src/GuiAchievements f26d0a1887cf8275a4ed832d64083f12
 net/minecraft/src/GuiButton 1cac72d2c59390972cb684788480a35a
 net/minecraft/src/GuiChat 1ed983dc63c521c352c6a32e644e9b3c
 net/minecraft/src/GuiChest 8adac86fdfd15e36806fe2f7d61d05fa
-net/minecraft/src/GuiCommand ebe9834ee39cb00b2dd65b5e8f51ed2d
+net/minecraft/src/GuiCommand 70ab615fcfbbd76318d50b299ac74e7e
 net/minecraft/src/GuiConflictWarning 84dfbb08d7997d5dae14edc4ec288359
 net/minecraft/src/GuiConnectFailed 25ee805b787bd999be4a9062d2d67da4
 net/minecraft/src/GuiConnecting 121a74ac4672396f64dc8bac334a2394
