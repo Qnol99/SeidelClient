@@ -8,6 +8,7 @@ A custom client for Minecraft Beta 1.7.3 adding many QoL features.
 - Fullbright,
 - Fog toggle,
 - Adjustable FOV,
+- Always visible coordinates (including Nether),
 - Command window (enter commands by pressing /),
 - Skin support (using [Minotar](https://minotar.net/)'s skin API)
 
